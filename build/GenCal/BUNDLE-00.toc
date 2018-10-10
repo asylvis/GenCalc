@@ -1,0 +1,3 @@
+([('GenCal',
+   '/Users/asylvis/projects/gencalc/gencalc/dist/GenCal',
+   'EXECUTABLE')],)
